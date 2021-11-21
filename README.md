@@ -61,7 +61,7 @@ Itt térnék ki két gyakori kritikára, amit a fentiek kapcsán fel szoktak vet
 
 Abszolút pozitív példaként ajánlanám Washington állam népegészségügyi központjának honlapját:
 https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard
-(az egész oldalt érdemes végigpörgetni!) [Ez az előadásom](https://kgk.uni-obuda.hu/sites/default/files/Ferenci%20Tam%C3%A1s-Modellez%C3%A9s%20%C3%A9s%20param%C3%A9terbecsl%C3%A9s%20j%C3%A1rv%C3%A1ny%20idej%C3%A9n.pdf) részletesebben is bemutatja az oldal által szolgáltatott – naponta frissített, bárki számára nyilvánosan elérhető - adatokat.
+(az egész oldalt érdemes végigpörgetni!). [Ez az előadásom](https://kgk.uni-obuda.hu/sites/default/files/Ferenci%20Tam%C3%A1s-Modellez%C3%A9s%20%C3%A9s%20param%C3%A9terbecsl%C3%A9s%20j%C3%A1rv%C3%A1ny%20idej%C3%A9n.pdf) részletesebben is bemutatja az oldal által szolgáltatott – naponta frissített, bárki számára nyilvánosan elérhető - adatokat.
 
 De említhetnénk [Amerika egészét](https://covid.cdc.gov/covid-data-tracker/#datatracker-home), ugyanúgy [Angliát is](https://coronavirus.data.gov.uk/), vagy [Németországot](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/), vagy [Olaszországot](https://opendatadpc.maps.arcgis.com/apps/dashboards/b0c68bce2cce478eaac82fe38d4138b1), vagy akár [Izlandot](https://www.covid.is/data)...
 
