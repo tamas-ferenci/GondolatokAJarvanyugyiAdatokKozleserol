@@ -79,6 +79,7 @@ De említhetnénk [Amerika egészét](https://covid.cdc.gov/covid-data-tracker/#
 
 Hosszasan lehetne sorolni a nyugati országok példáit, de bizonyos szempontból még elkeserítőbb ez:
 - Románia: https://datelazi.ro/
+- Albánia: https://coronavirus.al/statistika/
 - Szlovákia: https://onemocneni-aktualne.mzcr.cz/covid-19
 - Észak-Macedónia: https://gdi-sk.maps.arcgis.com/apps/opsdashboard/index.html#/2096bd4b051b42948ac3f5747e80c3a5
 
