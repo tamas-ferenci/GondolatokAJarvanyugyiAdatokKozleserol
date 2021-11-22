@@ -79,8 +79,11 @@ De említhetnénk [Amerika egészét](https://covid.cdc.gov/covid-data-tracker/#
 
 Hosszasan lehetne sorolni a nyugati országok példáit, de bizonyos szempontból még elkeserítőbb ez:
 - Románia: https://datelazi.ro/
+- Ukrajna: https://covid19.gov.ua/analitichni-paneli-dashbordy
 - Albánia: https://coronavirus.al/statistika/
+- Bosznia-Hercegovina: https://covid-19.ba/
 - Szlovákia: https://onemocneni-aktualne.mzcr.cz/covid-19
+- Bulgária: https://coronavirus.bg/bg/statistika
 - Észak-Macedónia: https://gdi-sk.maps.arcgis.com/apps/opsdashboard/index.html#/2096bd4b051b42948ac3f5747e80c3a5
 
 Érdemes megjegyezni azt is, hogy az adatformátumokat, a meta-adatokat nem kell újra feltalálnunk, az Európai Unió megfelelő szakmai ügynöksége, az ECDC ezt tálcán kínálja, egyben garantálva az adataink összehasonlíthatóságát is. Nagy részük (természetesen nyilvánosan, bárki számára...) elolvasható [a honlapjukon](https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-NCOV-Reporting-Protocol-v5.pdf).
