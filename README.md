@@ -82,7 +82,8 @@ Hosszasan lehetne sorolni a nyugati országok példáit, de bizonyos szempontbó
 - Ukrajna: https://covid19.gov.ua/analitichni-paneli-dashbordy
 - Albánia: https://coronavirus.al/statistika/
 - Bosznia-Hercegovina: https://covid-19.ba/
-- Szlovákia: https://onemocneni-aktualne.mzcr.cz/covid-19
+- Szlovákia: https://korona.gov.sk/en/coronavirus-covid-19-in-the-slovak-republic-in-numbers/
+- Csehország: https://onemocneni-aktualne.mzcr.cz/covid-19
 - Bulgária: https://coronavirus.bg/bg/statistika
 - Észak-Macedónia: https://gdi-sk.maps.arcgis.com/apps/opsdashboard/index.html#/2096bd4b051b42948ac3f5747e80c3a5
 
