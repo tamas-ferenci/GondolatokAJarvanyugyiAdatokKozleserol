@@ -1,5 +1,6 @@
 Gondolatok a járványügyi adatok közléséről
 ================
+
 Ferenci Tamás
 
 _"S jogunk van_  
