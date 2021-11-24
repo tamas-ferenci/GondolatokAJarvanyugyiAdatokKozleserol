@@ -10,7 +10,9 @@ Ferenci Tamás
   > Mert növeli, ki elfödi a bajt."
 
 _(Illyés Gyula: Bartók)_
-<br/><br/><br/>
+
+---
+
 Gyakran kérdezik tőlem, hogy mik azok az adatok, amiket véleményem szerint fontos/hasznos/célszerű/elvárható lenne közölni a járvány kapcsán, amelyek közlése segítené a járvány elleni küzdelmet. Egyáltalán nem fogom megkerülni a kérdést, igyekszem rá nagyon is konkrét választ adni, de elöljáróban fontosnak tartok néhány dolgot kiemelni.
 
 ## Összefoglaló
@@ -125,6 +127,7 @@ Kezdjük az elsővel. Gyakran emlegetik a „tanuló népegészségügy” fogal
 
 Nem arról van szó, hogy ebben a helyzetben minden politikai oldal egyenlő felelősséget visel, de az biztos, hogy muszáj lenne ebből a spirálból kilépni, mert ha ez nem történik meg, akkor a népegészségügyön fog csattani az ostor, aminek a színvonala még tovább fog romlani, amit követni fog az ellátórendszer teljesítménye, aminek a végén fizikailag és lelkileg összetört orvosok és szakdolgozók, és a rossz ellátás miatt szenvedő és meghaló betegek lesznek (és vannak már most is). Lehetne ennek megszakítása olyan közös nemzeti feladat, ami elég fontos ahhoz, hogy a politikusok a másikra mutogatás helyett önmérsékletet tanúsítsanak és a hosszabb távú gondolkodásmódot helyezzék előtérbe a rövidtávú érdekeikkel szemben.
 
+---
 
 (Az írás a 2021. november 21-én érvényes magyar állapotokat tükrözi.)
 
