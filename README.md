@@ -3,11 +3,11 @@ Gondolatok a járványügyi adatok közléséről
 
 Ferenci Tamás
 
-_"S jogunk van_  
-_– hisz halandók s életadók vagyunk –_  
-_mindazzal szembenézni,_  
-_mit elkerülni úgysem tudhatunk._  
-_Mert növeli, ki elfödi a bajt."_  
+  > "S jogunk van  
+  > – hisz halandók s életadók vagyunk –  
+  > mindazzal szembenézni,  
+  > mit elkerülni úgysem tudhatunk.  
+  > Mert növeli, ki elfödi a bajt."
 
 _(Illyés Gyula: Bartók)_
 <br/><br/><br/>
